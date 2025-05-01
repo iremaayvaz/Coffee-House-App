@@ -1,2 +1,2 @@
 # Coffee-House-App
-![Coffee-House Ekranı](images/İlk görünüm.png)
+![Coffee-House Ekranı](images/ilk_gorunum.png)
