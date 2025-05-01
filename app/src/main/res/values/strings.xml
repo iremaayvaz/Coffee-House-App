@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CoffeeHouse</string>
+    <string name="coffee_name">Latte</string>
+    <string name="aroma1">Vanilla</string>
+    <string name="aroma2">Hazelnut</string>
+    <string name="aroma3">Caramel</string>
+    <string name="aroma4">Chocolate</string>
+    <string name="fiyat1">$0.92</string>
+    <string name="fiyat2">$1.95</string>
+    <string name="fiyat3">$0.95</string>
+    <string name="fiyat4">$0.55</string>
+    <string name="coffee_fiyat">$2.95</string>
+    <string name="sure">10 min</string>
+    <string name="hazirlik">Take away in</string>
+    <string name="addButton">ADD</string>
+    <string name="button">ADD TO CHART</string>
+    <string name="mesaj">Freshly brewed with creamy milk and your favorite flavor.</string>
+</resources>
